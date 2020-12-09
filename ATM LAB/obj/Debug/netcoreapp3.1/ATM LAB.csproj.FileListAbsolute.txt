@@ -1,0 +1,13 @@
+D:\Grand Circus\ATM LAB\ATM LAB\bin\Debug\netcoreapp3.1\ATM LAB.exe
+D:\Grand Circus\ATM LAB\ATM LAB\bin\Debug\netcoreapp3.1\ATM LAB.deps.json
+D:\Grand Circus\ATM LAB\ATM LAB\bin\Debug\netcoreapp3.1\ATM LAB.runtimeconfig.json
+D:\Grand Circus\ATM LAB\ATM LAB\bin\Debug\netcoreapp3.1\ATM LAB.runtimeconfig.dev.json
+D:\Grand Circus\ATM LAB\ATM LAB\bin\Debug\netcoreapp3.1\ATM LAB.dll
+D:\Grand Circus\ATM LAB\ATM LAB\bin\Debug\netcoreapp3.1\ATM LAB.pdb
+D:\Grand Circus\ATM LAB\ATM LAB\obj\Debug\netcoreapp3.1\ATM LAB.csprojAssemblyReference.cache
+D:\Grand Circus\ATM LAB\ATM LAB\obj\Debug\netcoreapp3.1\ATM LAB.AssemblyInfoInputs.cache
+D:\Grand Circus\ATM LAB\ATM LAB\obj\Debug\netcoreapp3.1\ATM LAB.AssemblyInfo.cs
+D:\Grand Circus\ATM LAB\ATM LAB\obj\Debug\netcoreapp3.1\ATM LAB.csproj.CoreCompileInputs.cache
+D:\Grand Circus\ATM LAB\ATM LAB\obj\Debug\netcoreapp3.1\ATM LAB.dll
+D:\Grand Circus\ATM LAB\ATM LAB\obj\Debug\netcoreapp3.1\ATM LAB.pdb
+D:\Grand Circus\ATM LAB\ATM LAB\obj\Debug\netcoreapp3.1\ATM LAB.genruntimeconfig.cache
